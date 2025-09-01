@@ -1,0 +1,42 @@
+.copyleaks {
+    background: #fff;
+    padding: 10px;
+    word-break: break-all;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.container {
+    display: flex;
+    flex-flow: column;
+    justify-content: flex-start;
+    flex: 1 1 0%;
+    min-width: 0px;
+    min-height: 0px;
+}
+
+.copyleaks button {
+    width: 100%;
+    padding: 5px;
+}
+
+.ckBoPy {
+    box-sizing: border-box;
+    margin: 0px;
+    margin-block: 0px;
+    margin-inline: 0px;
+    -webkit-font-smoothing: antialiased;
+    overflow: hidden;
+    font-family: Calibri, -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    line-height: 1.5;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: normal;
+    user-select: text;
+    word-break: normal;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    color: rgb(94, 102, 122);
+    margin: 10px 0px;
+}
