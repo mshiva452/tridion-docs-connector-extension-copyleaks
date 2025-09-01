@@ -25,6 +25,7 @@ This Copyleaks Extension helps to check Plagiarism of the original content withi
 	EMAIL: "" Copyleaks email Id
 	API_KEY : "" API Key for copyleaks scan
 	PROXY_SERVER_BASE_URL : "" proxy server url
+	WEB_SOCKET_URL : "ws://localhost:5000",
 	WEB_HOOKS_URL : "" webhooks url from proxy server
 	WEB_HOOKS_NEWRESULT :"" webhooks url from proxy server
 
@@ -36,6 +37,7 @@ This Copyleaks Extension helps to check Plagiarism of the original content withi
             			"EMAIL":"",
             			"API_KEY":"",
 				"PROXY_SERVER_BASE_URL":"http://localhost:5000",
+				"WEB_SOCKET_URL" : "ws://localhost:5000",
             			"WEB_HOOKS_URL":"https://domain.com/webhooks",
             			"WEB_HOOKS_NEWRESULT":"https://domain.com/newResult"
        	 		}
