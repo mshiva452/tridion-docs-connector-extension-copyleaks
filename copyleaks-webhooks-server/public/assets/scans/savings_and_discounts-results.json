@@ -1,0 +1,150 @@
+{
+  "scannedDocument": {
+    "scanId": "savings_and_discounts",
+    "totalWords": 24,
+    "totalExcluded": 0,
+    "credits": 1,
+    "expectedCredits": 1,
+    "creationTime": "2025-04-02T05:29:36.457217Z",
+    "metadata": {
+      "filename": "savings_and_discounts.txt"
+    },
+    "enabled": {
+      "plagiarismDetection": true,
+      "aiDetection": false,
+      "explainableAi": false,
+      "writingFeedback": false,
+      "pdfReport": false,
+      "cheatDetection": false
+    },
+    "detectedLanguage": "en"
+  },
+  "results": {
+    "score": {
+      "identicalWords": 23,
+      "minorChangedWords": 0,
+      "relatedMeaningWords": 1,
+      "aggregatedScore": 100.0
+    },
+    "internet": [
+      {
+        "url": "https://ayasolar.com/",
+        "id": "41b0edb587",
+        "title": "Homeowners - AYA SOLAR",
+        "introduction": "Skip to content ...",
+        "matchedWords": 15,
+        "identicalWords": 15,
+        "similarWords": 0,
+        "paraphrasedWords": 0,
+        "totalWords": 322,
+        "metadata": {},
+        "tags": []
+      },
+      {
+        "url": "https://longevity.solar/custom-solar-design/",
+        "id": "4383c8c458",
+        "title": "Custom Solar Design – Longevity Solar",
+        "introduction": "...",
+        "matchedWords": 15,
+        "identicalWords": 15,
+        "similarWords": 0,
+        "paraphrasedWords": 0,
+        "totalWords": 1118,
+        "metadata": {},
+        "tags": []
+      },
+      {
+        "url": "https://brightworld.com/why-go-solar/",
+        "id": "56877e1c5f",
+        "title": "Why Go Solar – Brightworld.com",
+        "introduction": "...",
+        "matchedWords": 15,
+        "identicalWords": 15,
+        "similarWords": 0,
+        "paraphrasedWords": 0,
+        "totalWords": 957,
+        "metadata": {},
+        "tags": []
+      },
+      {
+        "url": "https://lp.sunplicityenergy.com/",
+        "id": "6374869e37",
+        "title": "No Title",
+        "introduction": "Home Solar Benefits Request Quote Save Money On Your Electric Bill! Invest In Your Future! Watch Solar ...",
+        "matchedWords": 23,
+        "identicalWords": 23,
+        "similarWords": 0,
+        "paraphrasedWords": 0,
+        "totalWords": 864,
+        "metadata": {},
+        "tags": []
+      },
+      {
+        "url": "https://futurism.com/sunpower-solar-power",
+        "id": "663d3e9c45",
+        "title": "This Contact Free Solar Power Company Will Reduce Your Electric Bill",
+        "introduction": "/ Futurism/ The ByteAdvanced TransportArtificial IntelligenceEarth & EnergyEnhanced HumansFuture SocietyHard ScienceHealth & Med...",
+        "matchedWords": 15,
+        "identicalWords": 15,
+        "similarWords": 0,
+        "paraphrasedWords": 0,
+        "totalWords": 861,
+        "metadata": {
+          "publishDate": "2021-06-21T14:00:50Z",
+          "lastModificationDate": "2022-04-19T16:28:04Z",
+          "author": "Futurism Creative",
+          "organization": "Futurism",
+          "filename": "sunpower-solar-power"
+        },
+        "tags": []
+      },
+      {
+        "url": "https://www.clearefficiency.com/near-me/solar/",
+        "id": "e5182763cd",
+        "title": "Solar Company | Roseville, Sacramento, Lincoln, Citrus Heights, Rocklin, CA",
+        "introduction": "Skip to primary navigation Skip to main content Skip to footer 916-438-2532 Clear Efficiency Home About Us Services...",
+        "matchedWords": 15,
+        "identicalWords": 15,
+        "similarWords": 0,
+        "paraphrasedWords": 0,
+        "totalWords": 608,
+        "metadata": {},
+        "tags": []
+      },
+      {
+        "url": "https://sunplicityenergy.com/",
+        "id": "f124edd3ec",
+        "title": "Sunplicity Energy – Sunplicity Energy",
+        "introduction": "...",
+        "matchedWords": 23,
+        "identicalWords": 23,
+        "similarWords": 0,
+        "paraphrasedWords": 0,
+        "totalWords": 333,
+        "metadata": {},
+        "tags": []
+      },
+      {
+        "url": "https://aecsun.com/why-aec-and-sunpower-are-right-for-you/",
+        "id": "fb912fd667",
+        "title": "AEC Solar Why AEC and SUNPOWER are Right for you - Energy Efficiency Solutions",
+        "introduction": "See the 2020 SP Solar, BackUp & Storage Video – click here Watch the AEC/SunPower 2020 TV Spot ...",
+        "matchedWords": 24,
+        "identicalWords": 0,
+        "similarWords": 15,
+        "paraphrasedWords": 9,
+        "totalWords": 1246,
+        "metadata": {},
+        "tags": []
+      }
+    ],
+    "database": [],
+    "batch": [],
+    "repositories": []
+  },
+  "notifications": {
+    "alerts": []
+  },
+  "status": 0,
+  "developerPayload": ""
+}

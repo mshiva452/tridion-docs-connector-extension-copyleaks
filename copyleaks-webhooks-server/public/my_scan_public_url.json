@@ -1,0 +1,24 @@
+{
+    "input": {
+      "requestParams": {
+        "headers": {
+             "Authorization": "1C72CF670504701E82551219E24C1F161CB16BE807E01E3EC65218579963DF72"
+          }      
+      },
+      "crawledVersion": "https://copyleaks-webhooks.tridiondemo.com/static/assets/scans/savings_and_discounts-source.json",
+      "completedWebhook": "https://copyleaks-webhooks.tridiondemo.com/static/assets/scans/savings_and_discounts-results.json",
+      "writingFeedback": "https://example.com/api/scans/scanid/writing_feedback.json",
+      "result": "https://copyleaks-webhooks.tridiondemo.com/static/assets/scans/results/savings_and_discounts-result-{RESULT_ID}.json"
+    },
+    "customizations": {
+      "companyLogo": "https://ai12z-preview.tridiondemo.com/content/img/solar-icon.png",
+      "accessExpired": {
+        "httpResponsesCode": [
+          403,
+          401
+        ],
+        "customMessage": "*Custom Error Message*",
+        "redirectUrl": "https://example.com/login"
+      }
+    }
+  }

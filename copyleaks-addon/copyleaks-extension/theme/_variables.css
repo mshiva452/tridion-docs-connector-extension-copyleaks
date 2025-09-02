@@ -1,0 +1,40 @@
+* {
+    --color-brand-light: #E5F2F2;
+    --color-brand-primary: #00A89F;
+    --color-brand-accessible: #007373;
+    --color-brand-dark: #005A5A;
+
+    --color-gray0: #FFFFFF;
+    --color-gray10: #F1F2F5;
+    --color-gray20: #E3E6EB;
+    --color-gray50: #C8CCD6;
+    --color-gray80: #9199AD;
+    --color-gray100: #758099;
+    --color-gray-120: #5E667A;
+    --color-gray180: #171A1F;
+
+    --color-blue50: #80BBD5;
+    --color-blue100: #0078AB;
+
+    --color-red50: #DD9A91;
+    --color-red100: #BB3523;
+    --color-red120: #962A1C;
+
+    --color-orange50: #FAC092;
+    --color-orange100: #F58025;
+
+    --color-magenta50: #EC88AC;
+    --color-magenta100: #D81159;
+    --color-magenta120: #AD0E47;
+
+    --color-yellow50: #FFD99C;
+    --color-yellow100: #FFB238;
+    --color-yellow120: #CC8E2D;
+
+    --spacing-zero: 0;
+    --spacing-nano: 4px;
+    --spacing-xs: 8px;
+    --spacing-sm: 16px;
+    --spacing-md: 24px;
+    --spacing-lg: 32px;
+}
